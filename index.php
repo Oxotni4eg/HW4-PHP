@@ -250,7 +250,7 @@ $str = preg_replace($pattern,'!',$str);
 echo $str;
 
 //Task-19
-
+// на видео разбирали
 //Task-20
-
+// /^[\a-z]{1}[\w-\.]{2,}\@[\w-]+\.[a-z]{2,11}$/gi
 
